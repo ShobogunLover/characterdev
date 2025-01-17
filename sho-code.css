@@ -1,15 +1,1 @@
-.shohoverimg { width: 250px; height: 500px; top: center; line-height: 10px; padding: 0px; position: relative;background-position: center;background-repeat: no-repeat;background-size: cover;}
-.shohoverimg:hover { width: 250px; height: 500px; top: center; line-height: 10px; filter:grayscale(0.20); padding: 0px; position: relative;}
-.shocontainer {  position: relative;  height: 500px;  width: 250px;}
-.shotext {  position: absolute; top:0; bottom: 0;  left: 0;  right: 0;  background: #fff; color: var(--c1);  visibility: hidden;  opacity: 0; font-family:Comfortaa;  transition: opacity .2s, visibility .2s; text-align:center;  padding-top: 40%; padding-left: 10%; padding-right:10%;}
-.shocontainer:hover .shotext { visibility: visible;  opacity: 1;}
-.shobody {width: 600px; background-color: #eee; padding-right: 5px; padding-left: 5px; padding-bottom: 5px; border-top: 20px solid var(--c1); border-left: 2px solid var(--c1); border-right: 2px solid var(--c1); border-bottom: 20px solid var(--c1); }
-.shopost {width:90%; height:500px; padding:15px; text-align:justify; font-family:Comfortaa; font-size:12px; color:#222; line-height:100%; padding-top:2px; font-weight:normal; overflow: auto;}
-.shopost b {font-family:Comfortaa; font-size:12px;}
-.shopost i {font-family:Comfortaa; font-size:12px;}
-.shoquote {color: #ccc;}
-.shotag a {color: #ccc;}
-.shotag a:hover {color:#000;}
-.shonote{color: #ccc;}
-.Shoimage {width:100px; height:100px; border-radius: 50%; margin:auto;background-position: center;background-repeat: no-repeat;background-size: cover;}
-.shocred {font-family:Comfortaa; font-size:12px; color:#222;}
+
